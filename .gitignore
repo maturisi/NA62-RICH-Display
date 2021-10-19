@@ -1,4 +1,13 @@
 # NA62-RICH
+src/display1
+src/display2
+src/display3
+src/libna62rich.so
+src/mapping
+src/supercell
+src/translate
+src/*.pdf
+src/*.txt
 data/.DS_Store
 map/.DS_Store
 src/.DS_Store
