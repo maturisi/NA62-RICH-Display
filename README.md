@@ -52,8 +52,8 @@ pedestal
 -----------
 Pedestal information includes pedestal position and pedestal RMS
 Pedestal has been estimated using a method introduced by Matteo Turisini in 2019
-That method alternates Threshold Scan and Scaler acquisition (using mbcounter).
-The analysis of these data allow a fine characterization of PMT at single device level.
+That method alternates Threshold Scan and Scaler acquisition using mbcounter.
+The analysis of these data allow a fine characterization of each individual PMT.
 File format is
 ELEID, PEDESTAL MEAN
 ELEID, PEDESTAL RMS
